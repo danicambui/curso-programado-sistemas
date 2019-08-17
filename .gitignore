@@ -3,6 +3,8 @@
 # #
 # # Obtenha o mais recente em https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+a
+
 # Arquivos específicos do usuário
 * .rsuser
 * .suo
